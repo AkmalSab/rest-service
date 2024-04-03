@@ -9,3 +9,4 @@ public class GreetingComponent {
         return "Hello from GreetingComponent";
     }
 }
+
